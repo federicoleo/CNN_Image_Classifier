@@ -1,4 +1,4 @@
-# 🐶 End-to-end Multi-class Dog Breed Classification
+# 🐶 Dog Breed Identification Competition
 <a target="_blank" href="https://colab.research.google.com/drive/1xrqAj120BRl5b8OWtP1Fu9Z4_o_e6bF7#scrollTo=LTpB_uSLXeKV">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
